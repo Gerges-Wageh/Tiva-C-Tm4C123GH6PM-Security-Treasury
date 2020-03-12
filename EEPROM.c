@@ -14,7 +14,7 @@ uint32 EEPROMInit(void)
   // Insert delay 
 	SysCtlDelay(2);
 	// wait until EEDONE register is clear to indicate that eeprom is ready 
-   while ( EEDONE != 0) 
+     while ( EEDONE != 0) 
 	 {
 		 ;
 	 }
