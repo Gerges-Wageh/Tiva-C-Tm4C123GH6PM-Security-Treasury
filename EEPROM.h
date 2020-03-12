@@ -3,7 +3,7 @@
 #include "types.h"
 
 //Macros
-#define Write_reg_32bit(address,val) ((*(volatile uint32*)(address))=val)
+  #define Write_reg_32bit(address,val) ((*(volatile uint32*)(address))=val)
 #define Read_reg_32bit(address) *(volatile uint32*)(address)
 #define EEPROM_INIT_OK      0
 #define EEPROM_INIT_ERROR   1
