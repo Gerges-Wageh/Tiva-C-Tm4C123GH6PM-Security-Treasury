@@ -23,15 +23,17 @@
 ---
 
 ## API's Of each Module
-  -GPIO
+  - GPIO
       
-  -LCD 
+  - LCD 
   
-  -KeyPad
+  - KeyPad
   
-  -UART 
+  - UART 
   
-  -Timers
+  - Timers
   
-  -Interrupt 
+  - Interrupt 
+  
+  - EEPROM
   
