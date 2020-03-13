@@ -1,6 +1,6 @@
 # Tiva-C-Tm4C123GH6PM-Security-Treasury
 ---
-** Version 1.0.0 ** 
+**Version 1.0** 
 ---
 ## Project description
     ....
