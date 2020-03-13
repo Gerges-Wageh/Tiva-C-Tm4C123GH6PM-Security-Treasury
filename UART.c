@@ -5,7 +5,7 @@
 	Function Name        : UART_config
 	Function Returns     : void
 	Function Arguments   : PortName portname
-	Function Description : set configuration of UARTn for certin port  
+	Function Description : set configuration of UARTn for certin port.  
 */
 void UART_config(PortName portname)
 {
