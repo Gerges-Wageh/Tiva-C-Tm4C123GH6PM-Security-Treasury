@@ -9,16 +9,16 @@
 
 ## Contributors 
 
-  -Mostafa Ashraf <mostaphaashraf1996@gmail.com>
-  -Eman Mohamed  <mony2554@gmail.com>
-  -ahmed Taha <ahmedtahafekry98@gmail.com>
-  -yoummna Hassan <youma305@gmail.com>
-  -Gerges Wageh <gergeswageh920@yahoo.com>
-  -Aya Mosaad <>
-  -Mariam Ashraf <>
-  -Mohammed Obada <>
-  -Zeinab Ismail <>
-  -Mohamed Hamada <mohamedhamada97.07@gmail.com>
+  - Mostafa Ashraf <mostaphaashraf1996@gmail.com>
+  - Eman Mohamed  <mony2554@gmail.com>
+  - ahmed Taha <ahmedtahafekry98@gmail.com>
+  - yoummna Hassan <youma305@gmail.com>
+  - Gerges Wageh <gergeswageh920@yahoo.com>
+  - Aya Mosaad <>
+  - Mariam Ashraf <>
+  - Mohammed Obada <>
+  - Zeinab Ismail <>
+  - Mohamed Hamada <mohamedhamada97.07@gmail.com>
   
 ---
 
