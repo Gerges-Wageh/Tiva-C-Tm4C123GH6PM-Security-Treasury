@@ -17,7 +17,7 @@
   - Aya Mosaad <Ayamosad37@gmail.com>
   - Mariam Ashraf <>
   - Mohammed Obada <obadasarsar7@gmail.com>
-  - Zeinab Ismail <>
+  - Zeinab Ismail <zeinabismail44@gmail.com>
   - Mohamed Hamada <mohamedhamada97.07@gmail.com>
   
 ---
